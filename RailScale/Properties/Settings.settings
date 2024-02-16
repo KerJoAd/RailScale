@@ -1,0 +1,89 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RailScale.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="butIscriviti" Type="System.String" Scope="User">
+      <Value Profile="(Default)">butAccedi</Value>
+    </Setting>
+    <Setting Name="butAccedi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">butAccediLogIn</Value>
+    </Setting>
+    <Setting Name="exitForm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">exitForm</Value>
+    </Setting>
+    <Setting Name="exit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">exitForm</Value>
+    </Setting>
+    <Setting Name="nomeReg" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="passReg" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="emailReg" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ctrlEmailReg" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="cognomeReg" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="butRegistra" Type="System.String" Scope="User">
+      <Value Profile="(Default)">butRegistra</Value>
+    </Setting>
+    <Setting Name="but_Accedi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">butAccedi</Value>
+    </Setting>
+    <Setting Name="Accedi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Accedi</Value>
+    </Setting>
+    <Setting Name="ctrlPassReg" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FerroviaConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Ferrovia.mdf;Integrated Security=True;Connect Timeout=30&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Ferrovia.mdf;Integrated Security=True;Connect Timeout=30</Value>
+    </Setting>
+    <Setting Name="pesatura_btn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">carro_btn</Value>
+    </Setting>
+    <Setting Name="treni_btn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">treni_btn</Value>
+    </Setting>
+    <Setting Name="prodotto_btn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">products_btn</Value>
+    </Setting>
+    <Setting Name="saluta_utente" Type="System.String" Scope="User">
+      <Value Profile="(Default)">saluta_utente</Value>
+    </Setting>
+    <Setting Name="carro_btn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">carro_btn</Value>
+    </Setting>
+    <Setting Name="rails_btn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rails_btn</Value>
+    </Setting>
+    <Setting Name="products_btn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">products_btn</Value>
+    </Setting>
+    <Setting Name="secPesa_btn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">secPesa_btn</Value>
+    </Setting>
+    <Setting Name="editCarro" Type="System.String" Scope="User">
+      <Value Profile="(Default)">editCarro</Value>
+    </Setting>
+    <Setting Name="cancDati" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cancCarro</Value>
+    </Setting>
+    <Setting Name="comboBoxProdotto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">comboBoxProdotto</Value>
+    </Setting>
+    <Setting Name="comboBoxIdCarro" Type="System.String" Scope="User">
+      <Value Profile="(Default)">comboBoxIdCarro</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
